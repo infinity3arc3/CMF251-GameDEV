@@ -1,5 +1,5 @@
-# CMF251-GameDEV
-This is the open repository for CMF251, game development. All community files should be open to clone and commit.
+# CMF251-GameDEV Concept Art
+This is the open repository for CMF251 Concept Art. Only add concept art files here.
 
 ##How to use for basic members:
 Github is an application which will allow us to organize and control our update files when developing our major project this semester.
