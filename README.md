@@ -1,4 +1,4 @@
-# CMF251-GameDEV Concept Art
+# CMF251-GameDEV
 This is the open repository for CMF251, game development. Explore the various branches in order to find where you should post files.
 
 ## How to use for basic members:
